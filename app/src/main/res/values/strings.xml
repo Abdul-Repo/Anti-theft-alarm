@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Anti Theft Alarm</string>
+    <string name="activate">Activate</string>
+    <string name="activated">Activated</string>
+    <string name="plug_in_to_activate">Please plug in your device to activate the alarm</string>
+    <string name="status_ready">Device plugged in. Ready to activate.</string>
+    <string name="status_active">Alarm is active! Unplugging will trigger sound.</string>
+    <string name="status_not_plugged">Plug in device to activate</string>
+    <string name="flash_on_alarm">Flash on Alarm</string>
+    <string name="about_title">About</string>
+    <string name="about_content">Hey there! I’m Abdul Majeed — a noob developer who loves turning ideas, coffee, and questionable amounts of debugging into code. ☕💻\n\nThis is one of my simple Android apps, built while I explore the wonderful (and sometimes confusing) world of app development. I’m still learning every day, breaking things occasionally, and enjoying the process of making them work again.\n\nGot feedback, ideas, bugs to report, or just want to say hi?\n\nGitHub: github.com/Abdul-Repo\n\nEmail: abdul.majd.17@gmail.com\n\nThanks for checking out my app — more code, more learning, and probably more bugs coming soon! 🚀</string>
+</resources>
